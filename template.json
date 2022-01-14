@@ -1,0 +1,5 @@
+{
+  "vue": {
+    "ant-design": "vfastui/template-vue-ant-design#main"
+  }
+}
